@@ -7,13 +7,6 @@ public class Main {
         myStack.push(1,0);
         myStack.push(2,0);
         myStack.push(3,0);
-        myStack.push(4,0);
-
-        myStack.pop(0);
-        myStack.push(4,0);
-        myStack.pop(0);
-        myStack.push(1,1);
-        myStack.push(2,5);
 
 
     }
